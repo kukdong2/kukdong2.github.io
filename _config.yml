@@ -1,6 +1,7 @@
 # Setup
-title: Hello world! OSS class example
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+avatar: avatar.jpeg
+title: Happy Day!
+description: Simple is best
 url: https://kukdong2.github.io
 paginate: 5
 permalink: ':title/'
@@ -10,7 +11,7 @@ cover_image: /bg.jpeg
 author: Kukdong
 author-img: /avatar.jpg
 about-author : Let's do it.
-#social-email : 
+social-email : kukdong1101@gmail.com
 
 # Gems
 plugins:
@@ -35,14 +36,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Kukdong
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Kukdong Kim
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/kukdong2
+    - https://github.com/kukdong2
 google_site_verification: xxxxx
 lang: en
 
@@ -59,7 +60,4 @@ sass:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+
