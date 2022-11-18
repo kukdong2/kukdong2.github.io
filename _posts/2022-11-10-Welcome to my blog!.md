@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to my blog!
+title: Hello my name is kukdong!
 author: Kukdong Kim
 tags:
-- HEllO
+- hello
 date: 2022-11-10 10:06 +0800
 ---
 Welcome! **Kukdong** v0.1.0 was released!
