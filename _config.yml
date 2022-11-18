@@ -1,11 +1,16 @@
 # Setup
-title: Not Pure Poole
+title: Hello world! OSS class example
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+url: https://kukdong2.github.io
 paginate: 5
-permalink: pretty
+permalink: ':title/'
 cover_image: /bg.jpeg
+
+# Author Settings
+author: Kukdong
+author-img: /avatar.jpg
+about-author : Let's do it.
+#social-email : 
 
 # Gems
 plugins:
@@ -14,6 +19,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+
 
 # Optimize Jekyll
 exclude:
