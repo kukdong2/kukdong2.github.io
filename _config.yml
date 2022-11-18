@@ -1,7 +1,8 @@
 # Setup
 avatar: avatar.jpeg
 title: Happy Day!
-description: Simple is best
+description: my name is Kukdong
+Simple is best
 url: https://kukdong2.github.io
 paginate: 5
 permalink: ':title/'
